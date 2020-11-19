@@ -1,4 +1,4 @@
-#ft_printf by Javier Rodriguez Montero.
+# ft_printf by Javier Rodriguez Montero.
 
 # Content
 
